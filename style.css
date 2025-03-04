@@ -1,0 +1,41 @@
+body{
+    background-color: #EEFF66;
+    color: #000066;
+    font-style: italic;
+    width: 50%;
+    margin: auto;
+}
+
+
+.Hetek{
+    margin-top: 15%;
+    display: flex;
+    justify-content: space-around;
+}
+
+hr{
+    color:  #ff0000;
+}
+
+.egynap{
+    justify-content: space-between;
+}
+
+.egynap img{
+    margin-left: 15%;
+    margin-right: 15%;
+    width: 230px;
+}
+
+.arakcsik{
+    justify-content: space-between;
+
+}
+.arak{
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    grid-template-rows: repeat(3, auto);
+    
+
+}
+
